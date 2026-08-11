@@ -1,3 +1,2 @@
 # git-pratica-10-08-2026
-## Giovane Giraldi Waidemam Grassato
-### teste a reverter
+Giovane Giraldi Waidemam Grassato
